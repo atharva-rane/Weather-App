@@ -2,6 +2,9 @@
 
 A sleek, responsive Weather Application built using HTML, CSS, and JavaScript, which utilizes the OpenWeatherMap API to fetch and display real-time weather data based on the user's city input.
 
+- 🚀 [Play it here](https://atharva-rane.github.io/Weather-App/)
+- 📂 [Source Code](https://github.com/atharva-rane/Weather-App)
+
 Features:
  - City-based weather search
  - Real-time temperature display
