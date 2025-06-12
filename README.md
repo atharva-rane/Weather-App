@@ -5,7 +5,7 @@ A sleek, responsive Weather Application built using HTML, CSS, and JavaScript, w
 - 🚀 [Play it here](https://atharva-rane.github.io/Weather-App/)
 - 📂 [Source Code](https://github.com/atharva-rane/Weather-App)
 
-- ![Image](https://github.com/user-attachments/assets/4c5325d0-c812-4237-9d2e-42149876eb3b)
+  ![Image](https://github.com/user-attachments/assets/4c5325d0-c812-4237-9d2e-42149876eb3b)
 
 Features:
  - City-based weather search
